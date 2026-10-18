@@ -1,0 +1,442 @@
+[
+  {
+    "edge_id": "e001",
+    "from_airport": "ATL",
+    "to_airport": "BOG",
+    "bag_count": 385,
+    "avg_weight_kg": 18.38,
+    "lost_frac": 0.0
+  },
+  {
+    "edge_id": "e002",
+    "from_airport": "BAQ",
+    "to_airport": "BOG",
+    "bag_count": 2324,
+    "avg_weight_kg": 18.45,
+    "lost_frac": 0.0041
+  },
+  {
+    "edge_id": "e003",
+    "from_airport": "CCS",
+    "to_airport": "BOG",
+    "bag_count": 1120,
+    "avg_weight_kg": 18.35,
+    "lost_frac": 0.0
+  },
+  {
+    "edge_id": "e004",
+    "from_airport": "CLO",
+    "to_airport": "BOG",
+    "bag_count": 1383,
+    "avg_weight_kg": 18.02,
+    "lost_frac": 0.0019
+  },
+  {
+    "edge_id": "e005",
+    "from_airport": "CTG",
+    "to_airport": "BOG",
+    "bag_count": 813,
+    "avg_weight_kg": 18.06,
+    "lost_frac": 0.009
+  },
+  {
+    "edge_id": "e006",
+    "from_airport": "FLL",
+    "to_airport": "BOG",
+    "bag_count": 462,
+    "avg_weight_kg": 18.17,
+    "lost_frac": 0.0
+  },
+  {
+    "edge_id": "e007",
+    "from_airport": "JFK",
+    "to_airport": "BOG",
+    "bag_count": 782,
+    "avg_weight_kg": 18.68,
+    "lost_frac": 0.0088
+  },
+  {
+    "edge_id": "e008",
+    "from_airport": "LIM",
+    "to_airport": "BOG",
+    "bag_count": 1119,
+    "avg_weight_kg": 18.07,
+    "lost_frac": 0.0047
+  },
+  {
+    "edge_id": "e009",
+    "from_airport": "MAD",
+    "to_airport": "BOG",
+    "bag_count": 2079,
+    "avg_weight_kg": 17.9,
+    "lost_frac": 0.0048
+  },
+  {
+    "edge_id": "e010",
+    "from_airport": "MDE",
+    "to_airport": "BOG",
+    "bag_count": 5202,
+    "avg_weight_kg": 18.41,
+    "lost_frac": 0.0009
+  },
+  {
+    "edge_id": "e011",
+    "from_airport": "MEX",
+    "to_airport": "BOG",
+    "bag_count": 994,
+    "avg_weight_kg": 18.11,
+    "lost_frac": 0.0022
+  },
+  {
+    "edge_id": "e012",
+    "from_airport": "MIA",
+    "to_airport": "BOG",
+    "bag_count": 1561,
+    "avg_weight_kg": 18.62,
+    "lost_frac": 0.0
+  },
+  {
+    "edge_id": "e013",
+    "from_airport": "PTY",
+    "to_airport": "BOG",
+    "bag_count": 1307,
+    "avg_weight_kg": 18.52,
+    "lost_frac": 0.0038
+  },
+  {
+    "edge_id": "e014",
+    "from_airport": "SAO",
+    "to_airport": "BOG",
+    "bag_count": 591,
+    "avg_weight_kg": 19.02,
+    "lost_frac": 0.0079
+  },
+  {
+    "edge_id": "e015",
+    "from_airport": "CTG",
+    "to_airport": "BAQ",
+    "bag_count": 763,
+    "avg_weight_kg": 16.63,
+    "lost_frac": 0.0219
+  },
+  {
+    "edge_id": "e016",
+    "from_airport": "CTG",
+    "to_airport": "MEO",
+    "bag_count": 466,
+    "avg_weight_kg": 15.19,
+    "lost_frac": 0.0062
+  },
+  {
+    "edge_id": "e017",
+    "from_airport": "CTG",
+    "to_airport": "MDE",
+    "bag_count": 419,
+    "avg_weight_kg": 18.71,
+    "lost_frac": 0.0334
+  },
+  {
+    "edge_id": "e018",
+    "from_airport": "CTG",
+    "to_airport": "CLO",
+    "bag_count": 678,
+    "avg_weight_kg": 20.2,
+    "lost_frac": 0.0238
+  },
+  {
+    "edge_id": "e019",
+    "from_airport": "CTG",
+    "to_airport": "UIO",
+    "bag_count": 784,
+    "avg_weight_kg": 19.6,
+    "lost_frac": 0.0133
+  },
+  {
+    "edge_id": "e020",
+    "from_airport": "PEI",
+    "to_airport": "BOG",
+    "bag_count": 549,
+    "avg_weight_kg": 15.63,
+    "lost_frac": 0.0097
+  },
+  {
+    "edge_id": "e021",
+    "from_airport": "PEI",
+    "to_airport": "BAQ",
+    "bag_count": 546,
+    "avg_weight_kg": 17.63,
+    "lost_frac": 0.0057
+  },
+  {
+    "edge_id": "e022",
+    "from_airport": "PEI",
+    "to_airport": "MEO",
+    "bag_count": 294,
+    "avg_weight_kg": 23.08,
+    "lost_frac": 0.0154
+  },
+  {
+    "edge_id": "e023",
+    "from_airport": "PEI",
+    "to_airport": "CLO",
+    "bag_count": 247,
+    "avg_weight_kg": 21.72,
+    "lost_frac": 0.0078
+  },
+  {
+    "edge_id": "e024",
+    "from_airport": "PEI",
+    "to_airport": "UIO",
+    "bag_count": 170,
+    "avg_weight_kg": 19.47,
+    "lost_frac": 0.0194
+  },
+  {
+    "edge_id": "e025",
+    "from_airport": "ADZ",
+    "to_airport": "CTG",
+    "bag_count": 426,
+    "avg_weight_kg": 15.09,
+    "lost_frac": 0.0293
+  },
+  {
+    "edge_id": "e026",
+    "from_airport": "ADZ",
+    "to_airport": "PEI",
+    "bag_count": 593,
+    "avg_weight_kg": 17.57,
+    "lost_frac": 0.009
+  },
+  {
+    "edge_id": "e027",
+    "from_airport": "ADZ",
+    "to_airport": "BAQ",
+    "bag_count": 546,
+    "avg_weight_kg": 16.15,
+    "lost_frac": 0.0314
+  },
+  {
+    "edge_id": "e028",
+    "from_airport": "ADZ",
+    "to_airport": "MDE",
+    "bag_count": 612,
+    "avg_weight_kg": 16.87,
+    "lost_frac": 0.0197
+  },
+  {
+    "edge_id": "e029",
+    "from_airport": "ADZ",
+    "to_airport": "CLO",
+    "bag_count": 652,
+    "avg_weight_kg": 20.02,
+    "lost_frac": 0.0054
+  },
+  {
+    "edge_id": "e030",
+    "from_airport": "ADZ",
+    "to_airport": "UIO",
+    "bag_count": 347,
+    "avg_weight_kg": 19.42,
+    "lost_frac": 0.0198
+  },
+  {
+    "edge_id": "e031",
+    "from_airport": "BOG",
+    "to_airport": "CTG",
+    "bag_count": 625,
+    "avg_weight_kg": 14.27,
+    "lost_frac": 0.0155
+  },
+  {
+    "edge_id": "e032",
+    "from_airport": "BOG",
+    "to_airport": "PEI",
+    "bag_count": 311,
+    "avg_weight_kg": 16.66,
+    "lost_frac": 0.0287
+  },
+  {
+    "edge_id": "e033",
+    "from_airport": "BOG",
+    "to_airport": "BAQ",
+    "bag_count": 292,
+    "avg_weight_kg": 19.93,
+    "lost_frac": 0.0118
+  },
+  {
+    "edge_id": "e034",
+    "from_airport": "BOG",
+    "to_airport": "MDE",
+    "bag_count": 529,
+    "avg_weight_kg": 15.37,
+    "lost_frac": 0.0252
+  },
+  {
+    "edge_id": "e035",
+    "from_airport": "BOG",
+    "to_airport": "CLO",
+    "bag_count": 445,
+    "avg_weight_kg": 21.72,
+    "lost_frac": 0.0097
+  },
+  {
+    "edge_id": "e036",
+    "from_airport": "BOG",
+    "to_airport": "UIO",
+    "bag_count": 431,
+    "avg_weight_kg": 23.34,
+    "lost_frac": 0.0328
+  },
+  {
+    "edge_id": "e037",
+    "from_airport": "BAQ",
+    "to_airport": "PEI",
+    "bag_count": 217,
+    "avg_weight_kg": 23.26,
+    "lost_frac": 0.0222
+  },
+  {
+    "edge_id": "e038",
+    "from_airport": "BAQ",
+    "to_airport": "ADZ",
+    "bag_count": 319,
+    "avg_weight_kg": 18.71,
+    "lost_frac": 0.0333
+  },
+  {
+    "edge_id": "e039",
+    "from_airport": "BAQ",
+    "to_airport": "MEO",
+    "bag_count": 446,
+    "avg_weight_kg": 14.96,
+    "lost_frac": 0.0085
+  },
+  {
+    "edge_id": "e040",
+    "from_airport": "MEO",
+    "to_airport": "CTG",
+    "bag_count": 650,
+    "avg_weight_kg": 15.78,
+    "lost_frac": 0.0339
+  },
+  {
+    "edge_id": "e041",
+    "from_airport": "MEO",
+    "to_airport": "ADZ",
+    "bag_count": 711,
+    "avg_weight_kg": 18.76,
+    "lost_frac": 0.0142
+  },
+  {
+    "edge_id": "e042",
+    "from_airport": "MEO",
+    "to_airport": "BAQ",
+    "bag_count": 310,
+    "avg_weight_kg": 15.87,
+    "lost_frac": 0.0256
+  },
+  {
+    "edge_id": "e043",
+    "from_airport": "MEO",
+    "to_airport": "MDE",
+    "bag_count": 724,
+    "avg_weight_kg": 17.32,
+    "lost_frac": 0.0172
+  },
+  {
+    "edge_id": "e044",
+    "from_airport": "MEO",
+    "to_airport": "UIO",
+    "bag_count": 708,
+    "avg_weight_kg": 17.26,
+    "lost_frac": 0.0239
+  },
+  {
+    "edge_id": "e045",
+    "from_airport": "MDE",
+    "to_airport": "BAQ",
+    "bag_count": 248,
+    "avg_weight_kg": 22.52,
+    "lost_frac": 0.0316
+  },
+  {
+    "edge_id": "e046",
+    "from_airport": "MDE",
+    "to_airport": "MEO",
+    "bag_count": 697,
+    "avg_weight_kg": 19.77,
+    "lost_frac": 0.0231
+  },
+  {
+    "edge_id": "e047",
+    "from_airport": "MDE",
+    "to_airport": "CLO",
+    "bag_count": 530,
+    "avg_weight_kg": 19.62,
+    "lost_frac": 0.0159
+  },
+  {
+    "edge_id": "e048",
+    "from_airport": "CLO",
+    "to_airport": "CTG",
+    "bag_count": 394,
+    "avg_weight_kg": 19.4,
+    "lost_frac": 0.0147
+  },
+  {
+    "edge_id": "e049",
+    "from_airport": "CLO",
+    "to_airport": "PEI",
+    "bag_count": 540,
+    "avg_weight_kg": 17.88,
+    "lost_frac": 0.0303
+  },
+  {
+    "edge_id": "e050",
+    "from_airport": "CLO",
+    "to_airport": "MDE",
+    "bag_count": 745,
+    "avg_weight_kg": 22.94,
+    "lost_frac": 0.0241
+  },
+  {
+    "edge_id": "e051",
+    "from_airport": "CLO",
+    "to_airport": "UIO",
+    "bag_count": 724,
+    "avg_weight_kg": 15.39,
+    "lost_frac": 0.0221
+  },
+  {
+    "edge_id": "e052",
+    "from_airport": "UIO",
+    "to_airport": "PEI",
+    "bag_count": 165,
+    "avg_weight_kg": 19.08,
+    "lost_frac": 0.0265
+  },
+  {
+    "edge_id": "e053",
+    "from_airport": "UIO",
+    "to_airport": "BOG",
+    "bag_count": 219,
+    "avg_weight_kg": 17.24,
+    "lost_frac": 0.0312
+  },
+  {
+    "edge_id": "e054",
+    "from_airport": "UIO",
+    "to_airport": "MDE",
+    "bag_count": 752,
+    "avg_weight_kg": 19.55,
+    "lost_frac": 0.011
+  },
+  {
+    "edge_id": "e055",
+    "from_airport": "UIO",
+    "to_airport": "CLO",
+    "bag_count": 755,
+    "avg_weight_kg": 22.13,
+    "lost_frac": 0.0054
+  }
+]

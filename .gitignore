@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.python-version
+install-pyenv-win.ps1
+*.png
